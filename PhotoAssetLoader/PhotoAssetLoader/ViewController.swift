@@ -139,7 +139,6 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
         return cell
     }
     
-    //testing the git stuff
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
