@@ -139,7 +139,7 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
         return cell
     }
     
-    //testing the circle ci setup
+    //testing the git stuff
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
